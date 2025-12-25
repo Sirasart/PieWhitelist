@@ -1,0 +1,8 @@
+# รูปแบบคือ -> ชื่อ : ปี-เดือน-วัน
+# ถ้าถาวรให้ใส่ -> LIFETIME
+
+DevMan007 : LIFETIME
+SteveGaming : 2025-12-31   # หมดสิ้นปีนี้
+AlexPro : 2026-05-20       # หมดวันที่ 20 พ.ค. ปีหน้า
+DrustyTrusty : LIFETIME
+TrustyDrusty : 2025-12-24
