@@ -5,4 +5,4 @@ DevMan007 : LIFETIME
 SteveGaming : 2025-12-31   # หมดสิ้นปีนี้
 AlexPro : 2026-05-20       # หมดวันที่ 20 พ.ค. ปีหน้า
 DrustyTrusty : LIFETIME
-TrustyDrusty : LIFETIME
+TrustyDrusty : 2024-12-31
